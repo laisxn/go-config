@@ -1,4 +1,4 @@
-package go-config
+package config
 
 import (
 	"gopkg.in/ini.v1"

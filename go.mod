@@ -1,3 +1,3 @@
-module go-config
+module github.com/laisxn/go-config
 
 go 1.15
